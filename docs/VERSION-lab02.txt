@@ -1,0 +1,11 @@
+﻿repo: https://github.com/NureSerhiehievaTaisiia/luden-ai-lab2
+python: 3.14.0
+pytest: 67 passed (local + CI workflow)
+ruff: All checks passed (E4,E7,E9,F,I)
+tags:
+  lab02-skill-v0 -> see: git rev-parse lab02-skill-v0^{}
+  lab02-ai-draft -> see: git rev-parse lab02-ai-draft^{}
+  lab02-implemented -> see: git rev-parse lab02-implemented^{}
+canonical-delivery: lab02-implemented
+experiment: experiments/protocol.md + experiments/experiment-lr2.csv
+base-spec: docs from luden-ai-labs lab01-spec-published
